@@ -9,6 +9,7 @@ body{
     margin:0;
     background:white;
     color:black;
+    text-decoration:none;
     display:flex;
     justify-content:center;
     align-items:center;
