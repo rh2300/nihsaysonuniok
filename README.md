@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<img src="images/名称未設定のアートワーク 5.tiff">
+<img src="images/koinu.jpg">
 <title>真写の犬仔</title>
 
 <style>
